@@ -1,0 +1,9 @@
+Acme Analytics is a customer support and product analytics company.
+We help teams understand churn, onboarding friction, and feature adoption.
+Our platform ingests customer conversations, product events, and support tickets.
+The data engineering team builds ingestion pipelines, cleanses raw data, and stores processed tables in a warehouse.
+Teams use this knowledge base to improve the product experience and reduce customer effort.
+
+The support workflow includes triage, prioritization, and routing to the correct specialist.
+AI assistants help agents summarize long cases and suggest next-best actions.
+A successful implementation requires trustworthy data, precise document retrieval, and clear business context.
